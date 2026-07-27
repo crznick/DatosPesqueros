@@ -1,0 +1,29 @@
+Especies con >=8 años de historia: 90 de 206
+Filas finales: 941
+N variables seleccionadas: 91 de 91
+
+==============================
+RESULTADOS (Año x Recurso, especies con >=8 años)
+==============================
+MAE           : 127620.09
+MSE           : 514804071050.07
+RMSE          : 717498.48
+R2            : 0.9860
+R2 Ajustado   : 0.9729
+
+Archivo generado: patron_tendencia_por_especie.csv (90 especies)
+Gráfica guardada: ranking_tendencia_especies.png
+Gráfica guardada: top3_especies_disminucion.png
+
+Top 10 especies con mayor disminución histórica:
+                                           Recurso  Pendiente_kg_por_anio  R2_historico  n_anios
+1              Anchoveta (Cetengraulis mysticetus)         -216156.751818      0.000444       11
+48  Lenguado boca de Dios (Cyclopsetta panamensis)          -22241.764545      0.641579       11
+61                   Pargo de seda (Lutjanus peru)          -14547.250000      0.287823       11
+38           Corvina pelona (Cynoscion stolzmanni)          -10481.352885      0.630728        9
+15               Camarón blanco (Penaeus vannamei)           -9283.383636      0.026166       11
+65                  Pargo rojo (Lutjanus colorado)           -8844.617273      0.105948       11
+20                         Cherna (Alphestes spp.)           -7886.414545      0.119668       11
+19                         Camarón tití (Decapoda)           -7684.682727      0.495257       11
+57                              Pargo (Lutjanidae)           -6607.981818      0.191248       11
+30                        Congo (Bagre panamensis)           -5357.000000      0.451737       11
